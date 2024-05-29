@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Theme from './pages/Theme';
@@ -11,7 +11,7 @@ import Navbar from "./components/Navbar";
 export default function App() {
   return (
     <div>
-        <BrowserRouter>
+        <HashRouter>
         <Navbar />
           <Routes>
             <Route index element={<Home />} />
@@ -23,7 +23,7 @@ export default function App() {
             <Route path="/design" element={<Design />} />
             <Route path="*" element={<NoPage />} />
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
     </div>
   )
 }
