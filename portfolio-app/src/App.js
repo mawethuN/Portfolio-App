@@ -6,11 +6,13 @@ import Theory from "./pages/Theory";
 import Art from './pages/Art';
 import Design from './pages/Design';
 import NoPage from './pages/NoPage';
+import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
     <div>
         <BrowserRouter>
+        <Navbar />
           <Routes>
             <Route index element={<Home />} />
             <Route path="/home" element={<Home />} />
