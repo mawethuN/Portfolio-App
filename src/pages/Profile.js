@@ -1,15 +1,15 @@
 
 import '../App.css';
-import img7 from '../images/PROFILE PICTURE.jpg';
+import img7 from '../images/PROFILEPICTURE.jpg';
 import img1 from '../PortfolioImages/art1.jpg';
 import img2 from '../PortfolioImages/art2.jpg';
 import img3 from '../PortfolioImages/art3.jpg';
 import img4 from '../PortfolioImages/art4.jpg';
 import img5 from '../PortfolioImages/art5.jpg';
 import img6 from '../PortfolioImages/art6.jpg';
-import img8 from '../PortfolioImages/wits logo.png';
-import img9 from '../PortfolioImages/Inanda Seminary Logo.png';
-import img10 from '../PortfolioImages/montclair logo.jpg';
+import img8 from '../PortfolioImages/Wits.png';
+import img9 from '../PortfolioImages/Inanda.png';
+import img10 from '../PortfolioImages/Montclair.jpg';
 
 
 export default function Profile() {

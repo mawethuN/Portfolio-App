@@ -1,8 +1,8 @@
 
 import '../App.css';
-import img1 from '../images/pexels-hngstrm-1939485.jpg';
+import img1 from '../images/white.jpg';
 import img2 from '../images/coathangers.jpeg';
-import img3 from '../images/pexels-cottonbro-5082573.jpg'
+import img3 from '../images/Cottonbro.jpg'
 import img4 from '../images/Hypernature.jpg';
 
 

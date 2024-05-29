@@ -1,10 +1,10 @@
 import Header from "../components/Header";
 import '../App.css';
-import img1 from '../DesignImages/apple logo.jpg';
-import img2 from '../DesignImages/Woolworths South Africa Mothers Day _3.jpg';
-import img3 from '../DesignImages/The Duke & Duchess of Sussex · Symbol and logo design.jpg';
-import img4 from '../wireframes/Screenshot 2024-05-29 131857.png';
-import img5 from '../wireframes/Japandi Bedrooms_ Everything You Need to Know » Solarith Home.jpeg';
+import img1 from '../DesignImages/appleRename.jpg';
+import img2 from '../DesignImages/Woolies.jpg';
+import img3 from '../DesignImages/RoyalSymbol.jpg';
+import img4 from '../wireframes/wireframe01.png';
+import img5 from '../wireframes/Jcolourpallette.jpeg';
 
 export default function Design() {
     return (

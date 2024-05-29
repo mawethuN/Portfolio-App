@@ -1,10 +1,10 @@
 import Header from "../components/Header";
 //Image imports for the ares that have images
-import img1 from '../images/What is Japandi Style_ How to Incorporate Japandi Design in Each Room_.jpeg';
-import img2 from '../images/7030f804-4e9f-4689-b06d-8a5d9c4e6203.jpeg';
+import img1 from '../images/Japandi01.jpeg';
+import img2 from '../images/Karolina.jpg';
 import img4 from '../images/HomePageImg1.jpg';
 import img5 from '../images/thread.jpg';
-import img6 from '../images/White Apple Wallpapers - Top Free White Apple Backgrounds - WallpaperAccess.jpg';
+import img6 from '../images/WhiteApple.jpg';
 import img7 from '../images/paperbag.jpeg';
 import Footer from "../components/Footer";
 import Design from "./Design";
