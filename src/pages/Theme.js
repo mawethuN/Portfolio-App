@@ -3,7 +3,7 @@ import '../App.css';
 import img1 from '../images/pexels-hngstrm-1939485.jpg';
 import img2 from '../images/coathangers.jpeg';
 import img3 from '../images/pexels-cottonbro-5082573.jpg'
-import img4 from '../images/Hypernature_Concept View, Ex Figura, Barbara Stallone, Francisco Silva, 2022.jpg'
+import img4 from '../images/Hypernature.jpg';
 
 
 export default function Theme() {
