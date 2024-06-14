@@ -1,4 +1,3 @@
-import Header from "../components/Header";
 //Image imports for the ares that have images
 import img1 from '../images/Japandi01.jpeg';
 import img2 from '../images/Karolina.jpg';
@@ -41,7 +40,7 @@ export default function Home() {
             <li>04: ART</li>
             <li>05: PROFILE</li>
          </ul>
-          <img src={img1} alt='Image of a collage with earth themed colours'/>
+          <img src={img1} alt='collage with earth themed colours'/>
         </div>
       </section>
       <section className="explore">

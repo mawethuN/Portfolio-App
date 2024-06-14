@@ -1,4 +1,3 @@
-import Header from "../components/Header";
 import '../App.css';
 import img1 from '../DesignImages/appleRename.jpg';
 import img2 from '../DesignImages/Woolies.jpg';

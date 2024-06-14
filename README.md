@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio-App
  This is my protfolio app. My substitute for a business card or a CV.
 =======
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> e2b4a7186a3f85d727caa9f59c5ca99fe2685465
