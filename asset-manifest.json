@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio-App/App.js/static/css/main.9e853e23.css",
+    "main.js": "/Portfolio-App/App.js/static/js/main.29620555.js",
+    "static/media/Karolina.jpg": "/Portfolio-App/App.js/static/media/Karolina.774625fdb59d659d5d1e.jpg",
+    "static/media/BackgroundH.jpg": "/Portfolio-App/App.js/static/media/BackgroundH.6e3f49c15d5a0911e686.jpg",
+    "static/media/white.jpg": "/Portfolio-App/App.js/static/media/white.ab8df158848345e7c846.jpg",
+    "static/media/Cottonbro.jpg": "/Portfolio-App/App.js/static/media/Cottonbro.0bcfe58263fbf1105614.jpg",
+    "static/media/wireframe01.png": "/Portfolio-App/App.js/static/media/wireframe01.d4a4aee2df619ec13cc9.png",
+    "static/media/art6.jpg": "/Portfolio-App/App.js/static/media/art6.b50326d0d8bac36ce881.jpg",
+    "static/media/HomePageImg1.jpg": "/Portfolio-App/App.js/static/media/HomePageImg1.fe55477229908fe1e35d.jpg",
+    "static/media/art5.jpg": "/Portfolio-App/App.js/static/media/art5.2e0d7c5e82736819e5a5.jpg",
+    "static/media/PROFILEPICTURE.jpg": "/Portfolio-App/App.js/static/media/PROFILEPICTURE.fa8cadd5ff2c81a8fb13.jpg",
+    "static/media/art3.jpg": "/Portfolio-App/App.js/static/media/art3.858252cbcf9923f1b574.jpg",
+    "static/media/art4.jpg": "/Portfolio-App/App.js/static/media/art4.0e275fcf1e4e54685143.jpg",
+    "static/media/Inanda.png": "/Portfolio-App/App.js/static/media/Inanda.bf03aa703eb54c69069b.png",
+    "static/media/Japandi01.jpeg": "/Portfolio-App/App.js/static/media/Japandi01.71290ce55b04911776d7.jpeg",
+    "static/media/art1.jpg": "/Portfolio-App/App.js/static/media/art1.f2fd996868c358ae435b.jpg",
+    "static/media/coathangers.jpeg": "/Portfolio-App/App.js/static/media/coathangers.ead39e92f161b11a12a3.jpeg",
+    "static/media/paperbag.jpeg": "/Portfolio-App/App.js/static/media/paperbag.c02f799d4f34cdb1c30b.jpeg",
+    "static/media/thread.jpg": "/Portfolio-App/App.js/static/media/thread.47971457e1ecaf2e3f06.jpg",
+    "static/media/Hypernature.jpg": "/Portfolio-App/App.js/static/media/Hypernature.df410f1c4b8911464e9f.jpg",
+    "static/media/art2.jpg": "/Portfolio-App/App.js/static/media/art2.177e5bc333a032729bb2.jpg",
+    "static/media/Jcolourpallette.jpeg": "/Portfolio-App/App.js/static/media/Jcolourpallette.0db5945826604107bd40.jpeg",
+    "static/media/Montclair.jpg": "/Portfolio-App/App.js/static/media/Montclair.b0a20877f0c957bdcd65.jpg",
+    "index.html": "/Portfolio-App/App.js/index.html",
+    "main.9e853e23.css.map": "/Portfolio-App/App.js/static/css/main.9e853e23.css.map",
+    "main.29620555.js.map": "/Portfolio-App/App.js/static/js/main.29620555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e853e23.css",
+    "static/js/main.29620555.js"
+  ]
+}
