@@ -1,0 +1,60 @@
+.Art {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+
+.shape {
+    position: absolute;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shape.rectangle {
+    width: 100px;
+    height: 200px;
+    background-color: #826c4a;
+}
+
+.shape.semicircle {
+    width: 200px;
+    height: 100px;
+    background-color: #2c2323;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+    transform: rotate(180deg);
+}
+
+.shape.circle {
+    width: 120px;
+    height: 120px;
+    background-color: #decf93;
+    border-radius: 50%;
+}
+
+.shape.triangle {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid #90ab90;
+    background-color: transparent;
+}
+
+.shape:hover {
+    background-color: #ff6347;
+}
+
+.shape.triangle:hover {
+    border-bottom-color: #ff6347;
+}
+
+.shape.clicked {
+    background-color: #ffd700;
+}
+
+.shape.triangle.clicked {
+    border-bottom-color: #ffd700;
+}

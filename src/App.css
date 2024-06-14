@@ -1,0 +1,331 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: #333;
+}
+
+/*Section covering headers and headings*/
+
+.header {
+  background: url('./images/BackgroundH.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 100px 0;
+  height: 32rem;
+  color: white;
+  image-rendering: crisp-edges;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 10rem;
+  padding-top: 10rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+  color: black;
+}
+
+h3 {
+ font-size: 2rem;
+ color: #000000;
+}
+
+.header p {
+  margin: 0;
+  font-size: 30px;
+  color: #000000;
+}
+
+/*Section concerning the about page and format*/
+
+.about, .contents, .explore, .footer {
+  padding: 36px;
+  margin: 20px;
+  
+}
+
+.about p {
+  margin-left: 20rem;
+  margin-right: 20rem;
+  font-size: 30px;
+  text-align: left;
+}
+
+/*Section concerning the contents tag and everything concerning it*/
+
+.contents {
+  padding: 12rem;
+  margin-bottom: -6rem;
+}
+
+.contentscon {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.contentscon p {
+  margin-left: 20rem;
+  margin-right: 10rem;
+  font-size: 30px;
+  text-align: left;
+}
+
+.contents ul {
+  list-style: none;
+  padding: 0;
+  
+}
+
+.contents li {
+  font-size: 35px;
+  margin: 5px 0;
+  text-align: left;
+  color: #000000;
+  line-height: 5rem;
+}
+
+.contents-image {
+  width: 30%;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-left: 15rem;
+}
+
+.contents img {
+  width: 30rem;
+  height: 30rem;
+}
+
+/*Section concerning the PORTFOLIO CONTENTS TAG BECAUSE I WANTED 
+TO MAKE MY LIFE EASIER*/
+
+.pcontents {
+  padding: 12rem;
+  margin-bottom: -6rem;
+}
+
+.pcontentscon {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.pcontentscon p {
+  margin-left: 10rem;
+  margin-right: 10rem;
+  font-size: 30px;
+  text-align: left;
+}
+
+.pcontents ul {
+  list-style: none;
+  padding: 0;
+  
+}
+
+.pcontents li {
+  font-size: 35px;
+  margin: 5px 0;
+  text-align: left;
+  color: #000000;
+  line-height: 5rem;
+}
+
+.pcontents-image {
+  width: 30%;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 6px;
+  padding-left: 12rem;
+}
+
+.pcontents img {
+  width: 23rem;
+  height: 23rem;
+}
+
+/*Section concerning the explore tag*/
+
+.explore-links {
+  display: flex;
+  justify-content: space-around;
+  padding: 4rem 0;
+}
+
+.explore-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+
+.explore-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.explore {
+  background-color: #ffffff;
+  width: 95.2%;
+  height: 37rem;
+  margin-left: 0rem;
+}
+
+.explore-links a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s ease;
+}
+
+.explore-links a:hover {
+  background-color: #ddd;
+}
+
+/*Section concerning CATEGORIES, NOT CONTENT*/
+
+.categories {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.categories p {
+  font-size: 1.3rem;
+}
+
+
+.category {
+  width: 30%;
+  text-align: center;
+}
+
+.category h4 {
+  margin-bottom: 10px;
+}
+
+.category img {
+  width: 15rem;
+  height: 15rem;
+  margin-bottom: 10px;
+}
+
+/*Section concerning the footer*/
+
+.footer {
+  padding: 10px;
+  font-size: 14px;
+  background-color: #f0f0f0;
+}
+
+.footer a {
+  color: #333;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+/*Profile picture settings*/
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 20px;
+  padding-top: 0.3rem;
+}
+
+/*Artwork section*/
+
+.pArtwork-thumbnails {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  padding-left: 6rem; 
+}
+
+.thumbnail {
+  width: 80%;
+  height: auto;
+  display: block;
+}
+
+/* Ensure the thumbnails are responsive */
+@media (max-width: 1024px) {
+  .pArtwork-thumbnails {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .pArtwork-thumbnails {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*DESIGN INSPIRED BY TAGS*/
+
+.inspired-by, .color-palette, .style-layout, .wireframes, .reflection {
+  margin-bottom: 20px;
+}
+
+.inspiration-logos {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.inspiration-logos .logo img {
+  width: 50px;
+  height: 50px;
+}
+
+/*some theory stuff*/
+
+.theory-page {
+  padding: 6rem;
+}
+
+.essay, .research {
+  margin-bottom: 40px;
+}
+
+.essay column-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.essay column {
+  padding: 10px;
+}
+
+.essay h1, h2, h3 {
+  text-align: center;
+}
+
+.essay p {
+  text-align: justify;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+}
+
+.essay ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
