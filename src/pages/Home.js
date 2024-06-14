@@ -11,6 +11,8 @@ import Design from "./Design";
 import Profile from "./Profile";
 import Theme from "./Theme";
 import Theory from "./Theory";
+import Art from "./Art";
+import ArtTheory from "./ArtTheory";
 
 
 
@@ -70,6 +72,8 @@ export default function Home() {
       <Profile />
       <Theme />
       <Theory />
+      <ArtTheory/>
+      <Art />
       <Design />
       <Footer />
     </div>

@@ -101,6 +101,10 @@ export default function Theory() {
               AI art, internet art, and UI/UX design are all pushing the boundaries of what’s possible with technology and creativity. AI art challenges our ideas about creativity, internet art changes how we engage with art online, and UI/UX design makes sure our digital interactions are smooth and enjoyable. These fields show how technology can transform artistic and design practices, promising a future full of creativity and innovation. Seeing how these fields evolve makes me hopeful for a future where tech and creativity work together seamlessly. As we move forward, focusing on empathy, inclusivity, and user-centered design will be key to making sure these advancements benefit everyone and create a richer, more human digital world.
             </p>
           </div>
+          <h3>My Internet Art Prep and Inspo</h3>
+          <p>
+          Minimal art has always intrigued me with its powerful ability to communicate complex ideas through simplicity. This approach was profoundly influenced by Michela Buttignol, who resonates with Mies Van Der Rohe's philosophy that "Less is More" and that "God is in the details." Michela's process of reduction and synthesis in her art underscores the importance of each detail by stripping away the unnecessary to create bold, immediate visuals. Initially working with a black, thick pencil, she transitioned to digital tools, maintaining her commitment to minimalism. Her advice to budding minimalists to start with non-erasable tools like pastels or markers is enlightening. It highlights the significance of every line and mark, emphasizing that each choice is deliberate and irrevocable. This meticulous attention to detail and thoughtful reduction inspires my own minimalist explorations, teaching me that every element in my work must serve a purpose and contribute to the whole.
+          </p>
         </div>
       </section>
     </div>
